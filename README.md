@@ -13,4 +13,4 @@ How do i learn?
 
 Wanna ask more?
 
-[Contact me on instagram] https://www.instagram.com/whatevs_dev?igsh=eHV6dG81OXllMnR2
+[Contact me on instagram](https://www.instagram.com/whatevs_dev?igsh=eHV6dG81OXllMnR2)
