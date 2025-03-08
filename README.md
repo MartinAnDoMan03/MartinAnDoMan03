@@ -3,7 +3,7 @@
 ## ✨ A Lifelong Learner, Kinda... ✨  
 
 ### 📖 What am I learning?  
-📚 I'm diving into **Human-Computer Interaction**—exploring how humans and computers communicate effectively.  
+📚 I'm diving into **Human-Computer Interaction** as if i'm not in front of my laptop for half a day already
 
 ### 🤔 Why am I learning?  
 (╥﹏╥) To improve and do something other than sleeping for eternity (╥﹏╥)
