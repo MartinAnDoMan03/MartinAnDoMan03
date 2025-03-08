@@ -1,7 +1,7 @@
 # martinmanalu
 
-=✨Hi, Mate✨
-== 📚 I'm a learner 📚
+#✨Hi, Mate✨
+## 📚 I'm a learner 📚
 
 What am i learning?
 Why do i learn?
