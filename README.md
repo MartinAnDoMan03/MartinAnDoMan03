@@ -1,12 +1,12 @@
 # 👋 Hey, I'm Martin Anugrah Dominick Manalu!  
 
-## ✨ A Lifelong Learner ✨  
+## ✨ A Lifelong Learner, Kinda... ✨  
 
 ### 📖 What am I learning?  
 📚 I'm diving into **Human-Computer Interaction**—exploring how humans and computers communicate effectively.  
 
 ### 🤔 Why am I learning?  
-(╥﹏╥) To improve and grow, hoping to make a meaningful impact!  
+(╥﹏╥) To improve and do something other than sleeping for eternity (╥﹏╥)
 
 ### 🛠️ How do I learn?  
 🎯 Whatever works, I guess! 😆  
