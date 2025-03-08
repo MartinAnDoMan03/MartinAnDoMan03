@@ -1,16 +1,19 @@
-# martinmanalu
+# 👋 Hey, I'm Martin Anugrah Dominick Manalu!  
 
-#✨Hi, Mate✨
-## 📚 I'm a learner 📚
+## ✨ A Lifelong Learner, Kinda... ✨  
 
-What am i learning?
-Why do i learn?
-How do i learn?
+### 📖 What am I learning?  
+I'm diving into **Human-Computer Interaction**—exploring how humans and computers communicate effectively.  
 
-- I'm Learning **Human Computer Interaction**
-- (╥﹏╥)To get better at something in my life(╥﹏╥)
-- Well.......... whatever works i guess
+### 🤔 Why am I learning?  
+(╥﹏╥) To improve and grow, hoping to make a meaningful impact!  
 
-Wanna ask more?
+### 🛠️ How do I learn?  
+Well… whatever works, I guess! 😆  
 
-[Contact me on instagram](https://www.instagram.com/whatevs_dev?igsh=eHV6dG81OXllMnR2)
+---
+
+### 💬 Want to connect?  
+📷 **Instagram:** [@whatevs_dev](https://www.instagram.com/whatevs_dev?igsh=eHV6dG81OXllMnR2)  
+
+🚀 Let's explore, learn, and build cool things together!  
