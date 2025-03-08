@@ -15,11 +15,19 @@
 
 ### ⚡ Tech & Tools I Use  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
 
 ---
 
 ### 📊 Achievement
 What do you expect?
+
+---
+
+### 🕹️Things i love
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/PlayStation_logo.svg" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Xbox_logo.svg" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Nintendo.svg" width="80" height="40"/>
 
 ---
 
