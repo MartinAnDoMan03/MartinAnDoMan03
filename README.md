@@ -25,8 +25,8 @@ What do you expect?
 ---
 
 ### 🕹️Things i love
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/PlayStation_logo.svg" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Xbox_logo.svg" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/PlayStation_logo.svg" width="50" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Xbox_one_logo.svg" width="80" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Nintendo.svg" width="80" height="40"/>
 
 ---
