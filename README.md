@@ -35,4 +35,4 @@ Just ask me if you want to know
 ### 💬 Want to connect?  
 📷 **Instagram:** [@whatevs_dev](https://www.instagram.com/whatevs_dev?igsh=eHV6dG81OXllMnR2)  
 
-🚀 Let's explore, learn, and build cool things together!  
+🚀 Let's explore, learn, and build cool things together, Nah, you will regret it
